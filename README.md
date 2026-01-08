@@ -32,5 +32,5 @@ feature engineering, analysis, and insight generation.
 ## Files
 - `student_analysis.ipynb` → Complete analysis notebook
 
-## 👤Author
+## Author
 Anukiran Bathula
